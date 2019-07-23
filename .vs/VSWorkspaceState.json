@@ -6,7 +6,9 @@
     "\\source\\html",
     "\\source\\images",
     "\\source\\js",
-    "\\Test"
+    "\\Test",
+    "\\Test\\Release"
   ],
+  "SelectedNode": "\\solutions.txt",
   "PreviewInSolutionExplorer": false
 }
