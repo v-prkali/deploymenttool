@@ -1,2 +1,1 @@
-MasterSolution_.zip
-Custom_.zip
+DevOps_managed_.zip
